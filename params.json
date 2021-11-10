@@ -1,0 +1,1 @@
+{"user_name": "DEFAULT_USERNAME", "running": true, "sleep_timer": 3600, "alert_percent_threshold": 3, "send_sms": true, "to_phone_number": "RECEIVER", "from_phone_number": "SENDER", "twilio_account_sid": "ACCT_SID", "twilio_auth_token": "AUTH_TOKEN"}
